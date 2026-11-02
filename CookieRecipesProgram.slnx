@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CookieRecipesProgram/CookieRecipesProgram.csproj" />
+  <Project Path="RecipesCookBookApp/RecipesCookBookApp.csproj" Id="c5b7b005-149a-44bd-9f3e-3a9df8cf7999" />
+</Solution>
